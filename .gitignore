@@ -1,0 +1,10 @@
+# Logs
+logs
+*.log
+
+
+#Config
+config.php
+
+#Kate
+*.kate-swp
